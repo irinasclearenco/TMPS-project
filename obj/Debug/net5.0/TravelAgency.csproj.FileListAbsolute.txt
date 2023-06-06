@@ -1,0 +1,16 @@
+C:\Users\Hi-tech\.vscode\ProiectDeAn\bin\Debug\net5.0\TravelAgency.exe
+C:\Users\Hi-tech\.vscode\ProiectDeAn\bin\Debug\net5.0\TravelAgency.deps.json
+C:\Users\Hi-tech\.vscode\ProiectDeAn\bin\Debug\net5.0\TravelAgency.runtimeconfig.json
+C:\Users\Hi-tech\.vscode\ProiectDeAn\bin\Debug\net5.0\TravelAgency.runtimeconfig.dev.json
+C:\Users\Hi-tech\.vscode\ProiectDeAn\bin\Debug\net5.0\TravelAgency.dll
+C:\Users\Hi-tech\.vscode\ProiectDeAn\bin\Debug\net5.0\TravelAgency.pdb
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.AssemblyInfo.cs
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.dll
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\refint\TravelAgency.dll
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.pdb
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\TravelAgency.genruntimeconfig.cache
+C:\Users\Hi-tech\.vscode\ProiectDeAn\obj\Debug\net5.0\ref\TravelAgency.dll
