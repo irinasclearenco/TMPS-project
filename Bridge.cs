@@ -13,7 +13,7 @@ namespace AbstractFactory.Models
         IAccount CreateAccount();
         double CreateDiscount();
 
-        
+
     }
 
     //concrete implementation
@@ -47,6 +47,7 @@ namespace AbstractFactory.Models
         }
         public double CreateDiscount()
         {
+            Console.WriteLine("Calculam reducerea\n\nFelicitari, aveti reducere pentru primul tur - 10%!");
             return discount;
         }
 

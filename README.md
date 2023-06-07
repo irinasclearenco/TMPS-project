@@ -1,1 +1,1 @@
-# TMPS-project
+# Poriect de curs la TMPS, realizat de Sclearenco Irina, TI-204.

@@ -25,7 +25,7 @@ namespace TravelAgency.Models
 
         }
 
-        // фабричный метод
+        //facotry method
         abstract public CountryTour CreateCountryTour();
     }
 
